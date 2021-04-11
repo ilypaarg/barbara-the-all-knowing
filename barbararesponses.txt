@@ -1,0 +1,5 @@
+KEY: 1-3 = Yes answers
+     4-6 = Hazy response answers
+     7-12 = No answers
+
+
